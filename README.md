@@ -11,6 +11,12 @@ This Python script automates the process of requesting Sepolia testnet ETH token
 - Robust error handling with retries for failed attempts.
 - Colorful console output using `colorama`.
 
+## Installation and Running
+### Install dependencies:
+pip install -r requirements.txt
+### Running (first module, then second):
+python main.py
+
 ---
 
 ## Описание (RU)
