@@ -29,6 +29,7 @@ This Python script automates the process of requesting Sepolia testnet ETH token
 pip install -r requirements.txt
 ### Запуск (первый модуль, потом второй):
 python main.py
+
 ---
 
 ## Project Structure
